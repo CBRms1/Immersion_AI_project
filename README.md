@@ -1,6 +1,5 @@
-# Projeto_Imersao
-Projeto de IA usando python no colab - Imersão IA | Alura
+# Immersion_Project
+AI project using python in colab - AI Immersion | Alura
 
-> Essa IA gera histórias baseadas na pergunta, por exemplo: "Once upon a time, there was a dragon who lived in Brazil" (Era uma vez, um dragão que vivia no Brasil)
-ou "create a story about everyday elves in a magical forest" (crie uma história do cotidiano de elfos em uma floresta mágica).
-É importante as perguntas serem em inglês.
+> This AI generates stories based on the question, for example: "Once upon a time, there was a dragon who lived in Brazil" or "create a story about everyday elves in a magical forest".
+It is important that the questions are in English.
